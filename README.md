@@ -7,7 +7,7 @@
 This app was built with some technologies below:
 
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [CSS](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
 ## Screenshoots
 
